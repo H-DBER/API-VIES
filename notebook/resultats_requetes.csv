@@ -1,0 +1,201 @@
+date,requete,reponse,temps_reponse
+2026-11-18 11:56:39,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/LU/vat/84999040,Valide: False | Nom:  | Adresse: ,0.343095
+2026-11-18 11:56:41,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/LU/vat/84881522,Valide: False | Nom:  | Adresse: ,0.212872
+2026-11-18 11:56:45,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/BE/vat/1536372310,Valide: False | Nom:  | Adresse: ,3.58982
+2026-11-18 11:56:47,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/FR/vat/62821216405,Valide: False | Nom: --- | Adresse: ---,0.57132
+2026-11-18 11:56:48,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/NL/vat/316959893B23,Valide: False | Nom: --- | Adresse: ---,0.142114
+2026-11-18 11:56:49,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/FI/vat/42476699,Valide: False | Nom:  | Adresse: ,0.418626
+2026-11-18 11:56:51,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/NL/vat/927419336B54,Valide: False | Nom: --- | Adresse: ---,0.184175
+2026-11-18 11:56:52,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/PT/vat/559329938,Valide: False | Nom:  | Adresse: ,0.436135
+2026-11-18 11:56:56,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/BE/vat/0435362823,Valide: False | Nom:  | Adresse: ,3.156115
+2026-11-18 11:56:57,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/IT/vat/41232395289,Valide: False | Nom: --- | Adresse: ---,0.165029
+2026-11-18 11:56:59,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/SE/vat/611190836101,Valide: False | Nom:  | Adresse: ,0.488809
+2026-11-18 11:57:00,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/LU/vat/71281312,Valide: False | Nom:  | Adresse: ,0.190537
+2026-11-18 11:57:02,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/SE/vat/602409844101,Valide: False | Nom:  | Adresse: ,0.584272
+2026-11-18 11:57:03,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/DK/vat/47058538,Valide: False | Nom: --- | Adresse: ---,0.109199
+2026-11-18 11:57:04,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/FI/vat/87786316,Valide: False | Nom:  | Adresse: ,0.590519
+2026-11-18 11:57:05,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/FR/vat/72957602547,Valide: False | Nom: --- | Adresse: ---,0.115493
+2026-11-18 11:57:07,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/SE/vat/747589769501,Valide: False | Nom:  | Adresse: ,1.021932
+2026-11-18 11:57:09,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/NL/vat/892103152B46,Valide: False | Nom: --- | Adresse: ---,0.119114
+2026-11-18 11:57:10,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/DK/vat/09866582,Valide: False | Nom: --- | Adresse: ---,0.20083
+2026-11-18 11:57:11,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/PL/vat/8367244160,Valide: False | Nom:  | Adresse: ,0.385681
+2026-11-18 11:57:12,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/LU/vat/21538101,Valide: False | Nom:  | Adresse: ,0.216642
+2026-11-18 11:57:14,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/NL/vat/320466930B76,Valide: False | Nom: --- | Adresse: ---,0.125959
+2026-11-18 11:57:15,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/PL/vat/7099810037,Valide: False | Nom:  | Adresse: ,0.243631
+2026-11-18 11:57:16,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/NL/vat/366225224B14,Valide: False | Nom: --- | Adresse: ---,0.134688
+2026-11-18 11:57:18,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/PT/vat/995437491,Valide: False | Nom:  | Adresse: ,0.664037
+2026-11-18 11:57:19,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/FI/vat/98957416,Valide: False | Nom:  | Adresse: ,0.384945
+2026-11-18 11:57:20,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/PL/vat/4591029930,Valide: False | Nom:  | Adresse: ,0.525874
+2026-11-18 11:57:22,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/BE/vat/0263035195,Valide: False | Nom: --- | Adresse: ---,0.14025
+2026-11-18 11:57:23,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/FR/vat/17400750199,Valide: False | Nom: --- | Adresse: ---,0.165489
+2026-11-18 11:57:24,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/PT/vat/201609878,Valide: False | Nom:  | Adresse: ,0.313465
+2026-11-18 11:57:35,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/FR/vat/59863577468,Valide: False | Nom:  | Adresse: ,9.686042
+2026-11-18 11:57:40,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/BE/vat/0462982186,Valide: False | Nom:  | Adresse: ,4.254367
+2026-11-18 11:57:41,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/FR/vat/11950538631,Valide: False | Nom: --- | Adresse: ---,0.142255
+2026-11-18 11:57:42,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/PL/vat/5140666836,Valide: False | Nom:  | Adresse: ,0.274808
+2026-11-18 11:57:44,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/PL/vat/4363015354,Valide: False | Nom:  | Adresse: ,0.351015
+2026-11-18 11:57:45,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/FI/vat/78409324,Valide: False | Nom:  | Adresse: ,0.330632
+2026-11-18 11:57:46,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/FI/vat/70957529,Valide: False | Nom:  | Adresse: ,0.311014
+2026-11-18 11:57:48,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/NL/vat/929325230B44,Valide: False | Nom: --- | Adresse: ---,0.142784
+2026-11-18 11:57:59,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/DK/vat/89264782,"Erreur : HTTPSConnectionPool(host='ec.europa.eu', port=443): Read timed out. (read timeout=10)",10.093431
+2026-11-18 11:58:00,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/PT/vat/863172415,Valide: False | Nom:  | Adresse: ,0.484993
+2026-11-18 11:58:01,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/NL/vat/973007928B84,Valide: False | Nom: --- | Adresse: ---,0.133473
+2026-11-18 11:58:03,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/FI/vat/93968239,Valide: False | Nom:  | Adresse: ,0.315377
+2026-11-18 11:58:04,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/FR/vat/49417134803,Valide: False | Nom: --- | Adresse: ---,0.11825
+2026-11-18 11:58:05,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/FR/vat/07927950660,Valide: False | Nom: --- | Adresse: ---,0.150921
+2026-11-18 11:58:06,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/SE/vat/081314139701,Valide: False | Nom:  | Adresse: ,0.468135
+2026-11-18 11:58:16,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/DK/vat/66763803,Valide: False | Nom:  | Adresse: ,8.773145
+2026-11-18 11:58:18,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/FI/vat/90789286,Valide: False | Nom:  | Adresse: ,0.352245
+2026-11-18 11:58:19,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/PL/vat/4924334431,Valide: False | Nom:  | Adresse: ,0.299513
+2026-11-18 11:58:20,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/IT/vat/76983380338,Valide: False | Nom:  | Adresse: ,0.390319
+2026-11-18 11:58:22,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/PT/vat/355255049,Valide: False | Nom:  | Adresse: ,0.479046
+2026-11-18 11:58:23,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/SE/vat/529469745201,Valide: False | Nom:  | Adresse: ,0.560823
+2026-11-18 11:58:24,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/IT/vat/88249678397,Valide: False | Nom: --- | Adresse: ---,0.107492
+2026-11-18 11:58:26,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/SE/vat/419445892501,Valide: False | Nom:  | Adresse: ,0.829768
+2026-11-18 11:58:28,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/FI/vat/92820662,Valide: False | Nom:  | Adresse: ,0.517805
+2026-11-18 11:58:29,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/IT/vat/38879851574,Valide: False | Nom: --- | Adresse: ---,0.165707
+2026-11-18 11:58:30,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/DK/vat/36884606,Valide: False | Nom: --- | Adresse: ---,0.290506
+2026-11-18 11:58:32,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/SE/vat/532715756501,Valide: False | Nom:  | Adresse: ,0.529457
+2026-11-18 11:58:41,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/DK/vat/20897848,Valide: False | Nom:  | Adresse: ,8.707307
+2026-11-18 11:58:43,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/FR/vat/34641819584,Valide: False | Nom: --- | Adresse: ---,0.421464
+2026-11-18 11:58:46,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/PT/vat/233143459,Valide: False | Nom:  | Adresse: ,2.06254
+2026-11-18 11:58:49,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/PT/vat/332283194,Valide: False | Nom:  | Adresse: ,1.714507
+2026-11-18 11:58:58,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/DK/vat/22751530,Valide: False | Nom:  | Adresse: ,8.519259
+2026-11-18 11:59:00,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/LU/vat/69921026,Valide: False | Nom:  | Adresse: ,0.407568
+2026-11-18 11:59:10,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/DK/vat/68442796,Valide: False | Nom:  | Adresse: ,9.410126
+2026-11-18 11:59:11,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/BE/vat/0761440201,Valide: False | Nom: --- | Adresse: ---,0.135956
+2026-11-18 11:59:17,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/BE/vat/0963975310,Valide: False | Nom:  | Adresse: ,5.055608
+2026-11-18 11:59:18,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/IT/vat/58885025575,Valide: False | Nom: --- | Adresse: ---,0.135095
+2026-11-18 11:59:19,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/DK/vat/02132524,Valide: False | Nom: --- | Adresse: ---,0.147495
+2026-11-18 11:59:21,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/FI/vat/95603436,Valide: False | Nom:  | Adresse: ,0.378307
+2026-11-18 11:59:22,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/NL/vat/888061018B04,Valide: False | Nom: --- | Adresse: ---,0.138173
+2026-11-18 11:59:23,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/PT/vat/178581496,Valide: False | Nom:  | Adresse: ,0.340422
+2026-11-18 11:59:25,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/PL/vat/9352747990,Valide: False | Nom:  | Adresse: ,0.283991
+2026-11-18 11:59:26,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/PT/vat/299986284,Valide: False | Nom:  | Adresse: ,0.339494
+2026-11-18 11:59:27,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/BE/vat/0390134493,Valide: False | Nom: --- | Adresse: ---,0.134036
+2026-11-18 11:59:28,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/IT/vat/67347489147,Valide: False | Nom: --- | Adresse: ---,0.120148
+2026-11-18 11:59:30,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/LU/vat/88222052,Valide: False | Nom:  | Adresse: ,0.46633
+2026-11-18 11:59:31,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/IT/vat/98456042575,Valide: False | Nom: --- | Adresse: ---,0.132996
+2026-11-18 11:59:32,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/NL/vat/724206553B41,Valide: False | Nom: --- | Adresse: ---,0.123847
+2026-11-18 11:59:43,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/DK/vat/78596961,"Erreur : HTTPSConnectionPool(host='ec.europa.eu', port=443): Read timed out. (read timeout=10)",10.067846
+2026-11-18 11:59:44,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/FR/vat/48181921281,Valide: False | Nom: --- | Adresse: ---,0.481036
+2026-11-18 11:59:46,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/FR/vat/40737819225,Valide: False | Nom: --- | Adresse: ---,0.105716
+2026-11-18 11:59:47,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/IT/vat/37941563985,Valide: False | Nom: --- | Adresse: ---,0.123604
+2026-11-18 11:59:48,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/FR/vat/96670311059,Valide: False | Nom: --- | Adresse: ---,0.12432
+2026-11-18 11:59:49,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/FI/vat/54229812,Valide: False | Nom:  | Adresse: ,0.402953
+2026-11-18 11:59:59,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/FR/vat/09172480258,Valide: False | Nom:  | Adresse: ,8.637032
+2026-11-18 12:00:08,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/FR/vat/54258105180,Valide: False | Nom:  | Adresse: ,8.469351
+2026-11-18 12:00:13,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/LU/vat/73460600,Valide: False | Nom:  | Adresse: ,3.956594
+2026-11-18 12:00:20,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/FR/vat/34403223155,Valide: False | Nom: --- | Adresse: ---,5.754585
+2026-11-18 12:00:22,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/PL/vat/2235835671,Valide: False | Nom:  | Adresse: ,0.407119
+2026-11-18 12:00:26,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/PT/vat/669151688,Valide: False | Nom:  | Adresse: ,3.50651
+2026-11-18 12:00:27,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/NL/vat/664535732B02,Valide: False | Nom: --- | Adresse: ---,0.140418
+2026-11-18 12:00:29,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/LU/vat/26806586,Valide: False | Nom:  | Adresse: ,0.384497
+2026-11-18 12:00:31,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/IT/vat/61818388672,Valide: False | Nom: --- | Adresse: ---,1.314879
+2026-11-18 12:00:41,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/FR/vat/30613496391,Valide: False | Nom:  | Adresse: ,9.161196
+2026-11-18 12:00:42,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/FI/vat/56135246,Valide: False | Nom:  | Adresse: ,0.331618
+2026-11-18 12:00:46,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/BE/vat/1394065984,Valide: False | Nom: --- | Adresse: ---,2.856666
+2026-11-18 12:00:50,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/PT/vat/284420450,Valide: False | Nom:  | Adresse: ,3.157139
+2026-11-18 12:00:58,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/BE/vat/0359022734,Valide: False | Nom:  | Adresse: ,7.088082
+2026-11-18 12:01:07,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/BE/vat/0776547257,"Valide: True | Nom: Devresse, Cindy | Adresse: Rue de Belvaux 15 6927 Tellin",7.519005
+2026-11-18 12:01:08,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/IT/vat/80969281767,Valide: False | Nom: --- | Adresse: ---,0.189218
+2026-11-18 12:01:09,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/NL/vat/048129471B63,Valide: False | Nom: --- | Adresse: ---,0.222794
+2026-11-18 12:01:11,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/FI/vat/17386907,Valide: False | Nom:  | Adresse: ,0.677489
+2026-11-18 12:01:14,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/PL/vat/1065124231,Valide: False | Nom:  | Adresse: ,2.174803
+2026-11-18 12:01:16,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/SE/vat/909073735501,Valide: False | Nom:  | Adresse: ,0.520519
+2026-11-18 12:01:23,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/PT/vat/772064113,Valide: False | Nom:  | Adresse: ,6.356219
+2026-11-18 12:01:25,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/SE/vat/873100280701,Valide: False | Nom:  | Adresse: ,1.120349
+2026-11-18 12:01:29,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/FR/vat/94839322662,Valide: False | Nom: --- | Adresse: ---,2.642009
+2026-11-18 12:01:30,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/NL/vat/756474462B46,Valide: False | Nom: --- | Adresse: ---,0.132157
+2026-11-18 12:01:36,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/PL/vat/5220512153,Valide: False | Nom:  | Adresse: ,4.476032
+2026-11-18 12:01:37,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/IT/vat/75184936708,Valide: False | Nom: --- | Adresse: ---,0.185832
+2026-11-18 12:01:39,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/FR/vat/67260708923,Valide: False | Nom: --- | Adresse: ---,1.027799
+2026-11-18 12:01:41,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/PT/vat/585302758,Valide: False | Nom:  | Adresse: ,0.946744
+2026-11-18 12:01:42,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/DK/vat/77510710,Valide: False | Nom: --- | Adresse: ---,0.153288
+2026-11-18 12:01:53,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/DK/vat/49222955,"Erreur : HTTPSConnectionPool(host='ec.europa.eu', port=443): Read timed out. (read timeout=10)",10.091526
+2026-11-18 12:01:54,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/IT/vat/31301109414,Valide: False | Nom: --- | Adresse: ---,0.145731
+2026-11-18 12:01:55,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/IT/vat/80472084401,Valide: False | Nom: --- | Adresse: ---,0.133295
+2026-11-18 12:01:56,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/PL/vat/5281620428,Valide: False | Nom:  | Adresse: ,0.231238
+2026-11-18 12:01:58,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/PT/vat/451244796,Valide: False | Nom:  | Adresse: ,0.481904
+2026-11-18 12:01:59,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/FI/vat/84463503,Valide: False | Nom:  | Adresse: ,0.36939
+2026-11-18 12:02:10,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/DK/vat/31548403,"Erreur : HTTPSConnectionPool(host='ec.europa.eu', port=443): Read timed out. (read timeout=10)",10.058984
+2026-11-18 12:02:12,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/PL/vat/6459939070,Valide: False | Nom:  | Adresse: ,0.327076
+2026-11-18 12:02:13,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/FI/vat/68119446,Valide: False | Nom:  | Adresse: ,0.571489
+2026-11-18 12:02:15,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/PT/vat/975035568,Valide: False | Nom:  | Adresse: ,1.12011
+2026-11-18 12:02:17,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/PL/vat/1030315401,Valide: False | Nom:  | Adresse: ,0.289986
+2026-11-18 12:02:19,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/IT/vat/27143602020,Valide: False | Nom: --- | Adresse: ---,0.913143
+2026-11-18 12:02:21,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/PT/vat/787327239,Valide: False | Nom:  | Adresse: ,1.213647
+2026-11-18 12:02:22,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/FI/vat/59322979,Valide: False | Nom:  | Adresse: ,0.322026
+2026-11-18 12:02:23,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/LU/vat/58829606,Valide: False | Nom:  | Adresse: ,0.244691
+2026-11-18 12:02:27,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/PL/vat/6441137441,Valide: False | Nom:  | Adresse: ,2.199036
+2026-11-18 12:02:30,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/SE/vat/537121778601,Valide: False | Nom:  | Adresse: ,2.495098
+2026-11-18 12:02:32,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/FR/vat/05160804690,Valide: False | Nom: --- | Adresse: ---,1.175499
+2026-11-18 12:02:34,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/PL/vat/5787058706,Valide: False | Nom:  | Adresse: ,0.48146
+2026-11-18 12:02:35,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/LU/vat/60874271,Valide: False | Nom:  | Adresse: ,0.294299
+2026-11-18 12:02:36,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/FI/vat/16484142,Valide: False | Nom:  | Adresse: ,0.361306
+2026-11-18 12:02:41,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/BE/vat/1169040337,Valide: False | Nom:  | Adresse: ,4.025163
+2026-11-18 12:02:46,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/FR/vat/29144437500,Valide: False | Nom: --- | Adresse: ---,3.276653
+2026-11-18 12:02:47,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/BE/vat/0728581846,Valide: False | Nom: --- | Adresse: ---,0.140455
+2026-11-18 12:02:48,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/PT/vat/947852182,Valide: False | Nom:  | Adresse: ,0.524486
+2026-11-18 12:03:00,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/DK/vat/31680867,"Erreur : HTTPSConnectionPool(host='ec.europa.eu', port=443): Read timed out. (read timeout=10)",10.113928
+2026-11-18 12:03:01,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/LU/vat/64665065,Valide: False | Nom:  | Adresse: ,0.426458
+2026-11-18 12:03:02,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/LU/vat/41652707,Valide: False | Nom:  | Adresse: ,0.240466
+2026-11-18 12:03:03,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/LU/vat/68415108,Valide: False | Nom:  | Adresse: ,0.239708
+2026-11-18 12:03:05,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/PL/vat/6851495720,Valide: False | Nom: --- | Adresse: ---,0.134696
+2026-11-18 12:03:06,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/NL/vat/382890954B62,Valide: False | Nom: --- | Adresse: ---,0.129583
+2026-11-18 12:03:07,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/FR/vat/82738452940,Valide: False | Nom: --- | Adresse: ---,0.152299
+2026-11-18 12:03:08,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/PT/vat/110796497,Valide: False | Nom:  | Adresse: ,0.389422
+2026-11-18 12:03:10,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/FI/vat/30917645,Valide: False | Nom:  | Adresse: ,0.508133
+2026-11-18 12:03:14,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/SE/vat/196050755401,Valide: False | Nom:  | Adresse: ,2.864905
+2026-11-18 12:03:15,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/FR/vat/07633311899,Valide: False | Nom: --- | Adresse: ---,0.153501
+2026-11-18 12:03:20,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/BE/vat/0559903992,Valide: True | Nom: BV EYE-TEC | Adresse: Kemelbeekstraat 80/D 2460 Kasterlee,4.52173
+2026-11-18 12:03:21,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/SE/vat/882688988601,Valide: False | Nom: --- | Adresse: ---,0.132951
+2026-11-18 12:03:23,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/PT/vat/893894397,Valide: False | Nom:  | Adresse: ,0.435825
+2026-11-18 12:03:24,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/PT/vat/474014720,Valide: False | Nom:  | Adresse: ,0.333673
+2026-11-18 12:03:27,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/SE/vat/384456912301,Valide: False | Nom:  | Adresse: ,1.706326
+2026-11-18 12:03:28,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/PL/vat/1471183207,Valide: False | Nom:  | Adresse: ,0.275581
+2026-11-18 12:03:30,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/PT/vat/797150048,Valide: False | Nom:  | Adresse: ,0.323177
+2026-11-18 12:03:31,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/PL/vat/4209933786,Valide: False | Nom:  | Adresse: ,0.266161
+2026-11-18 12:03:32,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/PL/vat/3440083061,Valide: False | Nom:  | Adresse: ,0.421231
+2026-11-18 12:03:33,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/LU/vat/71937173,Valide: False | Nom:  | Adresse: ,0.252561
+2026-11-18 12:03:35,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/PL/vat/9512013884,Valide: False | Nom:  | Adresse: ,0.453753
+2026-11-18 12:03:36,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/DK/vat/21681946,Valide: False | Nom: --- | Adresse: ---,0.121139
+2026-11-18 12:03:38,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/SE/vat/782749096701,Valide: False | Nom:  | Adresse: ,0.750395
+2026-11-18 12:03:40,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/SE/vat/410585080601,Valide: False | Nom:  | Adresse: ,1.365179
+2026-11-18 12:03:41,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/BE/vat/1741774362,Valide: False | Nom: --- | Adresse: ---,0.150585
+2026-11-18 12:03:43,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/PT/vat/303441429,Valide: False | Nom:  | Adresse: ,0.303091
+2026-11-18 12:03:44,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/PL/vat/1551274343,Valide: False | Nom:  | Adresse: ,0.275084
+2026-11-18 12:03:45,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/DK/vat/39736861,Valide: False | Nom: --- | Adresse: ---,0.197234
+2026-11-18 12:03:46,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/LU/vat/39387853,Valide: False | Nom:  | Adresse: ,0.217542
+2026-11-18 12:03:48,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/PT/vat/149644361,Valide: False | Nom:  | Adresse: ,0.315329
+2026-11-18 12:03:49,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/PL/vat/8646821231,Valide: False | Nom:  | Adresse: ,0.250876
+2026-11-18 12:03:50,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/NL/vat/774007631B52,Valide: False | Nom: --- | Adresse: ---,0.141862
+2026-11-18 12:03:51,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/IT/vat/34807462618,Valide: False | Nom: --- | Adresse: ---,0.185237
+2026-11-18 12:03:53,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/LU/vat/86193357,Valide: False | Nom:  | Adresse: ,0.353227
+2026-11-18 12:03:54,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/LU/vat/67405457,Valide: False | Nom:  | Adresse: ,0.517871
+2026-11-18 12:03:56,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/NL/vat/166353085B61,Valide: False | Nom: --- | Adresse: ---,0.392314
+2026-11-18 12:03:57,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/PL/vat/5102708610,Valide: False | Nom:  | Adresse: ,0.372684
+2026-11-18 12:03:58,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/PL/vat/4451865365,Valide: False | Nom:  | Adresse: ,0.485507
+2026-11-18 12:04:00,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/LU/vat/44498372,Valide: False | Nom:  | Adresse: ,0.242625
+2026-11-18 12:04:01,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/PT/vat/378373340,Valide: False | Nom:  | Adresse: ,0.67546
+2026-11-18 12:04:02,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/NL/vat/444938448B53,Valide: False | Nom: --- | Adresse: ---,0.140412
+2026-11-18 12:04:04,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/LU/vat/75426276,Valide: False | Nom:  | Adresse: ,0.361503
+2026-11-18 12:04:05,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/PT/vat/787197084,Valide: False | Nom:  | Adresse: ,0.571619
+2026-11-18 12:04:16,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/DK/vat/18902915,Valide: False | Nom:  | Adresse: ,9.476196
+2026-11-18 12:04:17,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/PL/vat/6749315751,Valide: False | Nom:  | Adresse: ,0.262099
+2026-11-18 12:04:19,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/PT/vat/479192286,Valide: False | Nom:  | Adresse: ,1.148987
+2026-11-18 12:04:21,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/NL/vat/083479296B19,Valide: False | Nom: --- | Adresse: ---,0.434253
+2026-11-18 12:04:32,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/DK/vat/23641321,"Erreur : HTTPSConnectionPool(host='ec.europa.eu', port=443): Read timed out. (read timeout=10)",10.070716
+2026-11-18 12:04:41,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/FR/vat/15223647760,Valide: False | Nom:  | Adresse: ,8.289896
+2026-11-18 12:04:42,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/NL/vat/932746056B67,Valide: False | Nom: --- | Adresse: ---,0.159221
+2026-11-18 12:04:44,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/PT/vat/746032846,Valide: False | Nom:  | Adresse: ,0.330317
+2026-11-18 12:04:48,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/BE/vat/1293401463,Valide: False | Nom:  | Adresse: ,3.734437
+2026-11-18 12:04:58,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/FR/vat/87411489351,Valide: False | Nom:  | Adresse: ,8.563349
+2026-11-18 12:04:59,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/BE/vat/0501355584,Valide: False | Nom: --- | Adresse: ---,0.128742
+2026-11-18 12:05:00,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/PL/vat/3762112414,Valide: False | Nom:  | Adresse: ,0.261948
+2026-11-18 12:05:06,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/BE/vat/0864861896,Valide: False | Nom:  | Adresse: ,4.619977
+2026-11-18 12:05:07,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/DK/vat/03913309,Valide: False | Nom: --- | Adresse: ---,0.132617
+2026-11-18 12:05:08,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/LU/vat/55088160,Valide: False | Nom:  | Adresse: ,0.218083
+2026-11-18 12:05:09,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/DK/vat/83246235,Valide: False | Nom: --- | Adresse: ---,0.146427
+2026-11-18 12:05:11,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/NL/vat/722391602B91,Valide: False | Nom: --- | Adresse: ---,0.139533
+2026-11-18 12:05:12,https://ec.europa.eu/taxation_customs/vies/rest-api/ms/FR/vat/26721028488,Valide: False | Nom: --- | Adresse: ---,0.13047
