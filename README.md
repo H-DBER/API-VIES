@@ -35,3 +35,6 @@ site VIES de la commission européenne
   - Un document de résultats `resultats_requetes.csv`
   - Un exemplaire de dataframe nettoyé `tva_propre.cvs`
   - Deux graphes `output.png` et `output2.png`
+- Un dossier "data" qui comprend : 
+  - les deux sources initiales `numeros_tva.csv` et `numeros_tva.xlsx`
+  - le fichier nettoyé `tva_propre.csv`
