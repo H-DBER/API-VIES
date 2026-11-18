@@ -34,4 +34,4 @@ site VIES de la commission européenne
   - Un journal `requetes_api.log`
   - Un document de résultats `resultats_requetes.csv`
   - Un exemplaire de dataframe nettoyé `tva_propre.cvs`
-
+  - Deux graphes `output.png` et `output2.png`
