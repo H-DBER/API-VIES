@@ -39,3 +39,6 @@ site VIES de la commission européenne
   - les deux sources initiales `numeros_tva.csv` et `numeros_tva.xlsx`
   - le fichier nettoyé `tva_propre.csv`
   - le module de validation `validation_structure.py`
+
+## (dernière remarque apprenant)
+- git recloné et retesté en suivant exclusivement le readme, tout fonctionnel
