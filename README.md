@@ -38,3 +38,4 @@ site VIES de la commission européenne
 - Un dossier "data" qui comprend : 
   - les deux sources initiales `numeros_tva.csv` et `numeros_tva.xlsx`
   - le fichier nettoyé `tva_propre.csv`
+  - le module de validation `validation_structure.py`
